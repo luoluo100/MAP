@@ -1,0 +1,2 @@
+# MAP
+myself_baidumap
